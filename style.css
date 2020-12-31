@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+form input,
+form select {
+  width:90%;
+  margin:5%;
+  cursor:pointer;
+}
